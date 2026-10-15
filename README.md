@@ -17,14 +17,14 @@ El alcance, los supuestos, las limitaciones del laboratorio y las tecnologías s
 
 ## Estado
 
-En etapa de definición. El informe técnico existente se conserva sin modificaciones. La presentación inicial está en la raíz. El Gantt todavía debe incorporarse.
+En etapa de definición. El informe técnico existente se conserva sin modificaciones. La presentación inicial está en la raíz. El [Gantt](docs/planificacion/GANTT.md) ya tiene una plantilla; falta que el equipo acuerde y complete fechas y responsables.
 
 ## Documentación
 
 - Informe técnico protegido: [Informe Tecnico Proxmox BoA-UNIFRANZ.pdf](Informe%20Tecnico%20Proxmox%20BoA-UNIFRANZ.pdf). Mantener este archivo intacto.
 - [Presentación inicial](Gesti%C3%B3n%20de%20Recursos%20Virtuales%20en%20Proxmox%20VE%20y%20Conectividad%20Remota%20por%20SSH.pptx), actualmente en la raíz.
 - [Índice de documentación](docs/README.md)
-- [Planificación](docs/planificacion/README.md)
+- [Planificación y Gantt](docs/planificacion/README.md)
 - [Requisitos y límites](docs/requisitos/README.md)
 - [Arquitectura propuesta](docs/arquitectura/README.md)
 
@@ -38,14 +38,3 @@ En etapa de definición. El informe técnico existente se conserva sin modificac
 - .github: plantillas de Issues y Pull Requests.
 
 No se fija todavía una tecnología de desarrollo ni una topología física: primero documenten los recursos reales del laboratorio y lo viable para el semestre.
-
-## Desarrollo
-
-Aún no hay una implementación ejecutable. Al elegir la pila, documenten requisitos, variables de ejemplo, instalación, ejecución y pruebas. Usen datos sintéticos; no incluyan información personal ni datos de producción.
-
-## Trabajo en equipo
-
-- [Issues](https://github.com/max4134C/PR2-2026-SISTEMA/issues): requisitos, decisiones, riesgos, tareas y defectos.
-- [GitHub Project](https://github.com/users/max4134C/projects/1): flujo de trabajo del semestre.
-
-Trabajen en ramas breves y revisen cambios mediante Pull Requests. No suban contraseñas, claves SSH privadas, tokens, estados con secretos ni credenciales reales de sistemas de BoA.
