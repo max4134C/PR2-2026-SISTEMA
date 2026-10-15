@@ -1,5 +1,7 @@
-# Planificación
+# Planificación del semestre
 
-El Gantt aún no está incluido en el repositorio. Cuando esté disponible, agréguenlo aquí como gantt.pdf y mantengan también el archivo editable si el equipo puede compartirlo.
+El Gantt del equipo todavía no está en el repositorio. Al recibirlo, agréguenlo aquí en PDF y, si es posible, también en su formato editable.
 
-Usen GitHub Projects para el seguimiento del trabajo diario y esta carpeta para conservar la planificación formal. Actualicen el cronograma cuando cambien los hitos.
+El cronograma debe incluir hitos acordados para: delimitación de requisitos, levantamiento de recursos del laboratorio, diseño de arquitectura, preparación de infraestructura Proxmox VE, implementación incremental del prototipo de boletos, pruebas funcionales y de resiliencia, documentación y demostración final. Fechas y responsables deben ser validados por el equipo.
+
+GitHub Projects se usa para mover tareas y dar seguimiento semanal. Esta carpeta conserva el cronograma formal y sus revisiones.
