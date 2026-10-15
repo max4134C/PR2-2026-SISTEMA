@@ -1,7 +1,5 @@
 # Planificación del semestre
 
-El Gantt del equipo todavía no está en el repositorio. Al recibirlo, agréguenlo aquí en PDF y, si es posible, también en su formato editable.
+El [Gantt del semestre](GANTT.md) es una plantilla inicial con hitos de alcance, laboratorio, arquitectura, implementación, pruebas y demostración. El equipo debe completar fechas, responsables y dependencias acordadas; no se inventaron compromisos de calendario.
 
-El cronograma debe incluir hitos acordados para: delimitación de requisitos, levantamiento de recursos del laboratorio, diseño de arquitectura, preparación de infraestructura Proxmox VE, implementación incremental del prototipo de boletos, pruebas funcionales y de resiliencia, documentación y demostración final. Fechas y responsables deben ser validados por el equipo.
-
-GitHub Projects se usa para mover tareas y dar seguimiento semanal. Esta carpeta conserva el cronograma formal y sus revisiones.
+Mantenerlo sincronizado con el [Issue #5](https://github.com/max4134C/PR2-2026-SISTEMA/issues/5) y el [GitHub Project](https://github.com/users/max4134C/projects/1). Usar Issues para el trabajo ejecutable y actualizar su estado durante el seguimiento semanal. Esta carpeta conserva el cronograma y sus revisiones.
